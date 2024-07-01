@@ -21,6 +21,15 @@
 			"problemMatcher": [],
 			"label": "npm: build - myproject",
 			"detail": "vite build"
+		},
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "myproject",
+			"group": "clean",
+			"problemMatcher": [],
+			"label": "npm: install - myproject",
+			"detail": "install dependencies from package"
 		}
 	]
 }
